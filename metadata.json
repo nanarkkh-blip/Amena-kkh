@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ລະບົບຕິດຕາມເອກະສານ ສາທາລະນະສຸກແຂວງສາລະວັນ",
+  "description": "ລະບົບຕິດຕາມເອກະສານ ຂາເຂົ້າ-ຂາອອກ ແລະ ສ້າງບົດລາຍງານ ສໍາລັບພະແນກສາທາລະນະສຸກແຂວງສາລະວັນ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
